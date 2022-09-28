@@ -1,0 +1,22 @@
+{
+  "name": "contracts-overview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Musa-94/contracts-overview.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Musa-94/contracts-overview/issues"
+  },
+  "homepage": "https://github.com/Musa-94/contracts-overview#readme",
+  "dependencies": {
+    "hardhat": "^2.11.2"
+  }
+}
